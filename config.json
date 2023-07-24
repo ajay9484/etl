@@ -1,0 +1,9 @@
+{
+"config":{
+	"dir_path":"C:\\Users\\vijay gautam\\Downloads\\retail_sale\\",
+	"cust_file_name":"Customer.csv",
+	"prod_cat_file_name":"prod_cat_info.csv",
+	"tranx_file_name":"Transactions.csv"
+}
+
+}
